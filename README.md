@@ -90,17 +90,3 @@ Vendor-Performance-Analysis/
 │
 └── README.md
 
-
-## How to Run
-
-python Scripts/ingestion_db.py
-
-python Scripts/get_vendor_summary.py
-
----
-
-## Author
-
-**Sriramoju Ajith**
-
-Aspiring Data Analyst | SQL | Power BI | Python
